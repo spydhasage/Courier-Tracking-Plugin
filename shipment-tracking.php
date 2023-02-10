@@ -2,7 +2,7 @@
 /*
 Plugin Name: Shipment Tracking
 Plugin URI: https://damilolasteven.com
-Description: A plugin that allows customers to track their courier packages.
+Description: A plugin that allows customers to track their courier packages. Using the shortcode [wp_courier_tracker_form]
 Version: 1.0
 Requires at least: 5.2
 Requires PHP:      7.2
